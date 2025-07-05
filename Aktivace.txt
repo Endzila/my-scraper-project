@@ -1,0 +1,28 @@
+Jasně, chápu! To je naprosto normální chování terminálu.
+
+Když otevřeš nový terminál ve VS Code, ten se NEaktivuje virtuální prostředí automaticky. Musíš ho aktivovat pokaždé, když otevřeš nový terminál, nebo když zavřeš a znovu otevřeš VS Code.
+
+To je bezpečnostní a izolační funkce virtuálních prostředí – nezasahují do jiných terminálů nebo do globálního systému.
+
+Řešení je jednoduché: Aktivuj virtuální prostředí znovu v novém terminálu.
+
+Ujisti se, že jsi v tom novém terminálu, který jsi otevřel.
+
+Měl bys vidět: PS C:\Users\b_maj\Desktop\my_scraper_project>
+
+Spusť příkaz pro aktivaci virtuálního prostředí:
+
+
+
+
+
+
+.\venv\Scripts\Activate.ps1
+
+Clear-Host
+
+python scraper_zlatabanka.py
+python scraper_zlatemince.py  
+
+
+
