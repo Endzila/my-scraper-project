@@ -1,0 +1,4 @@
+venv➜  my-scraper-project git:(main) ✗ launchctl load ~/Library/LaunchAgents/com.mira.pricesimporter.plist
+Load failed: 5: Input/output error
+Try running `launchctl bootstrap` as root for richer errors.
+venv➜  my-scraper-project git:(main) ✗ 

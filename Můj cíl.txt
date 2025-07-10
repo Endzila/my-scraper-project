@@ -1,0 +1,14 @@
+iMac mini M4,VSCode,
+(venv) (my-scraper-project) ➜  my-scraper-project git:(main)
+
+
+
+
+Hodnoty ze scriptů :
+
+	scraper_goldengate.py
+	scraper_goldengate_stribro.py
+	scraper_zlatabanka.py
+	scraper_zlatemince.py
+        
+Importovat do Numbers na iMac mini M4 do Test.numbers
